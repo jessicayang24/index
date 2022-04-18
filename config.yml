@@ -46,58 +46,64 @@ content:
         - name: GitHub
           description: 软件设计师交流平台
           url: https://github.com/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: Gmail
-          description: 邮箱
-          url: https://mail.google.com/mail/
+        - name: AMZ123
+          description: 网址导航
+          url: https://www.amz123.com
+        - name: GitHub加速器
+          description: 下载用
+          url: https://ghproxy.com/
+        - name: TechCrunch
+          description: 美国科技类博客-主要报道新兴互联网公司、评论互联网新产品、发布重大突发新闻
+          url: https://techcrunch.com/
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
-        - name: Google
-          description: 全球搜索平台
-          url: https://www.google.com/
-        - name: 
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 界面灵感
+        - name: UN Comtrade Database
+          description: 海关数据查询
+          url: https://comtrade.un.org/
+        - name: 阿虚的储物间
+          description: 导航网址
+          url: https://axutongxue.com/
+    - name: 数据工具
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
+        - name: 研报课
+          description: 数据分析模型
+          url: https://www.yanbaoke.com/
+        - name: 极光大数据
+          description: 行业数据
+          url: https://www.moonfox.cn/
+        - name: 贝恩查询
+          description: 行业
+          url: https://www.bain.cn/
+        - name: 发现报告
+          description: 行业数据报告查询
+          url: https://www.fxbaogao.com/
+        - name: A/B testing page
+          description: Evan’s Awesome A/B Tools
+          url: https://www.evanmiller.org/ab-testing/
+        - name: SQLBolt
+          description: mysql 练习网站
+          url: https://sqlbolt.com/          
     - name: 社区资讯
       sites:
         - name: 雷锋网
           description: 人工智能和智能硬件领域的互联网科技媒体
           url: https://www.leiphone.com/
-        - name: Reddit
-          description: 论坛
-          url: https://www.reddit.com/
+        - name: 电鸭社区
+          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
+          url: https://eleduck.com/
         - name: 廖雪峰的官方网站
           description: 一个教编程的网站
           url: https://www.liaoxuefeng.com/
         - name: GA小站
           description: Google Analytics 分享平台
           url: https://www.ichdata.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
+        - name: Reddit
+          description: 北美最大社区交流平台
+          url: https://www.reddit.com/
         - name: 互联网早读课
           description: 互联网行业深度阅读与学习平台
           url: https://www.zaodula.com/
@@ -136,12 +142,9 @@ content:
         - name: 小众软件
           description: 在这里发现更多有趣的应用
           url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
+        - name: afternic
+          description: 域名交易市场
+          url: https://www.afternic.com/
         - name: UI uigreat
           description: APP界面截图参考
           url: http://ui.uigreat.com/
@@ -159,14 +162,14 @@ content:
         - name: Instant Logo Search
           description: Search & download thousands of logos instantly
           url: http://instantlogosearch.com/
-    - name: UI资源
+    - name: 联盟论坛
       sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
+        - name: warriorforum
+          description: 国外论坛 联盟 CPC CPL
+          url: https://www.warriorforum.com/
+        - name: affiliate-talk
+          description: 国外论坛 联盟 
+          url: https://www.affiliate-talk.com/
         - name: 云瑞
           description: 优秀设计资源的分享网站
           url: https://www.yrucd.com/
