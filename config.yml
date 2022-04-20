@@ -81,6 +81,9 @@ content:
         - name: 发现报告
           description: 行业数据报告查询
           url: https://www.fxbaogao.com/
+        - name: AppExchange
+          description: 类似天眼查
+          url: https://appexchange.salesforce.com/          
         - name: A/B testing page
           description: Evan’s Awesome A/B Tools
           url: https://www.evanmiller.org/ab-testing/
@@ -104,9 +107,9 @@ content:
         - name: Reddit
           description: 北美最大社区交流平台
           url: https://www.reddit.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
+        - name: 中文马克思注意文库
+          description: 深度阅读与学习平台
+          url: https://www.marxists.org/chinese/index.html
         - name: 产品壹佰
           description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
           url: http://www.chanpin100.com/
@@ -122,9 +125,9 @@ content:
         - name: 古田路9号
           description: 国内专业品牌创意平台
           url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
+        - name: 展会网
+          description: 国际展会信息公共服务平台
+          url: https://www.qufair.com/
     - name: 发现产品
       sites:
         - name: NEXT
@@ -222,9 +225,9 @@ content:
         - name: Android 9 patch
           description: Android 9-patch shadow generator fully customizable shadows
           url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
+        - name: photopea
+          description: 在线作图工具，PS
+          url: https://www.photopea.com/
         - name: svgomg
           description: SVG在线压缩平台
           url: https://jakearchibald.github.io/svgomg/
