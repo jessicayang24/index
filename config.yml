@@ -113,34 +113,20 @@ content:
         - name: 展会网
           description: 国际展会信息公共服务平台
           url: https://www.qufair.com/
-    - name: 发现产品
+    - name: 搜索工具
       sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
+        - name: 5iu
+          description: 设计导航
+          url: https://hao.5iux.cn
+        - name: duckdyckgo
+          description: 无痕浏览器
+          url: https://www.duckduckgoog.com
+        - name: instagram
+          description: 社交平台
+          url: https://www.instagram.com
         - name: afternic
           description: 域名交易市场
           url: https://www.afternic.com/
-    - name: LOGO设计
-      sites:
-        - name: Iconsfeed
-          description: iOS icons gallery
-          url: http://www.iconsfeed.com/
-        - name: iOS Icon Gallery
-          description: Showcasing beautiful icon designs from the iOS App Store
-          url: http://iosicongallery.com/
-        - name: World Vector Logo
-          description: Brand logos free to download
-          url: https://worldvectorlogo.com/
-        - name: Instant Logo Search
-          description: Search & download thousands of logos instantly
-          url: http://instantlogosearch.com/
     - name: 联盟论坛
       sites:
         - name: warriorforum
