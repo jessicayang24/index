@@ -14,7 +14,7 @@ url: https://jessicayang24.github.io/index/
 github: "https://github.com/jessicayang24"
 
 # footer message
-footer: © 2021-2021 @jessicayang24
+footer: © 2021-2022 @jessicayang24
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -52,9 +52,6 @@ content:
         - name: GitHub加速器
           description: 下载用
           url: https://ghproxy.com/
-        - name: TechCrunch
-          description: 美国科技类博客-主要报道新兴互联网公司、评论互联网新产品、发布重大突发新闻
-          url: https://techcrunch.com/
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
@@ -67,6 +64,9 @@ content:
         - name: 阿虚的储物间
           description: 导航网址
           url: https://axutongxue.com/
+        - name: 新榜
+          description: 新媒体数据来源
+          url: https://www.newrank.cn
     - name: 数据工具
       sites:
         - name: 研报课
@@ -83,15 +83,30 @@ content:
           url: https://www.fxbaogao.com/
         - name: AppExchange
           description: 类似天眼查
-          url: https://appexchange.salesforce.com/          
+          url: https://appexchange.salesforce.com/  
+        - name: 中财网
+          description: 数据引擎
+          url: http://data.cfi.cn 
         - name: A/B testing page
           description: Evan’s Awesome A/B Tools
           url: https://www.evanmiller.org/ab-testing/
+        - name: Factset
+          description: 金融数据和软件公司
+          url: https://www.factset.com/
+        - name: Kuangstuday
+          description: 编程学习平台
+          url: https://sqlbolt.com/   
         - name: SQLBolt
           description: mysql 练习网站
-          url: https://sqlbolt.com/          
+          url: https://www.kuangstudy.com 
+        - name: YAMM
+          description: Gmailyet-another-mail-merge
+          url: https://support.yet-another-mail-merge.com/
     - name: 社区资讯
       sites:
+        - name: TechCrunch
+          description: 美国科技类博客-主要报道新兴互联网公司、评论互联网新产品、发布重大突发新闻
+          url: https://techcrunch.com/
         - name: 雷锋网
           description: 人工智能和智能硬件领域的互联网科技媒体
           url: https://www.leiphone.com/
@@ -113,7 +128,7 @@ content:
         - name: 展会网
           description: 国际展会信息公共服务平台
           url: https://www.qufair.com/
-    - name: 搜索工具
+    - name: 搜索导航
       sites:
         - name: 5iu
           description: 设计导航
@@ -141,6 +156,12 @@ content:
         - name: 稀土区
           description: 优质设计开发资源分享
           url: https://xituqu.com/
+        - name: 吾爱破解
+          description: 破解资源分享
+          url: https://www.52pojie.cn
+        - name: 站长
+          description: 网站分析
+          url: https://ping.chinaz.com
     - name: 在线工具
       sites:
         - name: tinypng
@@ -164,8 +185,11 @@ content:
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
-    - name: 设计文章
+    - name: 开发端
       sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
+        - name: Regex
+          description: 爬虫自动加正则以及自动化的工具
+          url: https://regex101.com
+        - name: Codepen
+          description: The best place to build, test, and discover front-end code
+          url: https://codepen.io
