@@ -55,6 +55,9 @@ content:
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
+        - name: 阿里天池
+          description: 阿里数据集
+          url: https://tianchi.aliyun.com/
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
@@ -67,8 +70,31 @@ content:
         - name: 新榜
           description: 新媒体数据来源
           url: https://www.newrank.cn
+        - name: 价格走势网
+          description: 黄金汇率价格
+          url: http://www.data777.com
+    - name: 新闻门户
+      sites:
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: 
+          description: 
+          url: 
+        - name: Fair Observer
+          description: India news
+          url: https://www.fairobserver.com/
     - name: 数据工具
       sites:
+        - name: 跨境电商网
+          description: 跨境电商报告
+          url: http://www.100ec.cn/zt/wmds/
         - name: 研报课
           description: 数据分析模型
           url: https://www.yanbaoke.com/
