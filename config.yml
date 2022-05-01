@@ -44,7 +44,7 @@ content:
           description: 技术分享平台
           url: https://www.v2ex.com
         - name: GitHub
-          description: 软件设计师交流平台
+          description: 代码交流平台
           url: https://github.com/
         - name: AMZ123
           description: 网址导航
@@ -70,9 +70,6 @@ content:
         - name: 新榜
           description: 新媒体数据来源
           url: https://www.newrank.cn
-        - name: 价格走势网
-          description: 黄金汇率价格
-          url: http://www.data777.com
     - name: 新闻门户
       sites:
         - name: 
@@ -145,9 +142,6 @@ content:
         - name: GA小站
           description: Google Analytics 分享平台
           url: https://www.ichdata.com/
-        - name: Reddit
-          description: 北美最大社区交流平台
-          url: https://www.reddit.com/
         - name: 中文马克思注意文库
           description: 深度阅读与学习平台
           url: https://www.marxists.org/chinese/index.html
@@ -162,9 +156,6 @@ content:
         - name: duckdyckgo
           description: 无痕浏览器
           url: https://www.duckduckgoog.com
-        - name: instagram
-          description: 社交平台
-          url: https://www.instagram.com
         - name: afternic
           description: 域名交易市场
           url: https://www.afternic.com/
@@ -190,18 +181,6 @@ content:
           url: https://ping.chinaz.com
     - name: 在线工具
       sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
         - name: photopea
           description: 在线作图工具，PS
           url: https://www.photopea.com/
