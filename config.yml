@@ -49,6 +49,9 @@ content:
         - name: AMZ123
           description: 网址导航
           url: https://www.amz123.com
+        - name: imyshare
+          description: 精品实用网络资源导航，助你学习、工作和生活
+          url: https://imyshare.com/
         - name: GitHub加速器
           description: 下载用
           url: https://ghproxy.com/
@@ -81,9 +84,9 @@ content:
         - name: 
           description: 
           url: 
-        - name: 
-          description: 
-          url: 
+        - name: MAKE
+          description: 国内新闻热榜
+          url: https://make.mk/
         - name: Fair Observer
           description: India news
           url: https://www.fairobserver.com/
