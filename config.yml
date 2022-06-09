@@ -152,7 +152,7 @@ content:
           description: 国际展会信息公共服务平台
           url: https://www.qufair.com/
     - name: 搜索导航
-      sites:
+      sites: 
         - name: 5iu
           description: 设计导航
           url: https://hao.5iux.cn
@@ -165,15 +165,7 @@ content:
         - name: Port Examiner
           description: 美国海关提单查询
           url: https://portexaminer.com/
-        - name: NPCS
-          description: 印度进口商名录（基本带详细邮箱）
-          url: https://www.niir.org/directory/
-       - name: Port Examiner
-          description: 全球进口商查询（可按具体细分产品查询）
-          url: http://www.exportersindia.com/
-       - name: Buyer online
-          description: 全球买家在线询盘
-          url: https://www.globalbuyersonline.com/
+    
     - name: 联盟论坛
       sites:
         - name: warriorforum
