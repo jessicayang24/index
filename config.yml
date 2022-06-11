@@ -52,27 +52,15 @@ content:
         - name: imyshare
           description: 精品实用网络资源导航，助你学习、工作和生活
           url: https://imyshare.com/
-        - name: GitHub加速器
-          description: 下载用
-          url: https://ghproxy.com/
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
         - name: 阿里天池
           description: 阿里数据集
           url: https://tianchi.aliyun.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: UN Comtrade Database
-          description: 海关数据查询
-          url: https://comtrade.un.org/
         - name: 阿虚的储物间
           description: 导航网址
           url: https://axutongxue.com/
-        - name: 新榜
-          description: 新媒体数据来源
-          url: https://www.newrank.cn
     - name: 新闻门户
       sites:
         - name: 
@@ -174,6 +162,12 @@ content:
         - name: Buyer online
           description: 全球买家在线询盘
           url: https://www.globalbuyersonline.com/
+        - name: UN Comtrade Database
+          description: 海关数据查询
+          url: https://comtrade.un.org/
+        - name: 新榜
+          description: 新媒体数据来源
+          url: https://www.newrank.cn
     - name: 联盟论坛
       sites:
         - name: warriorforum
