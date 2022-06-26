@@ -55,17 +55,11 @@ content:
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
-        - name: 阿里天池
-          description: 阿里数据集
-          url: https://tianchi.aliyun.com/
         - name: 阿虚的储物间
           description: 导航网址
           url: https://axutongxue.com/
     - name: 新闻门户
       sites:
-        - name: 
-          description: 
-          url: 
         - name: 
           description: 
           url: 
@@ -113,14 +107,8 @@ content:
         - name: SQLBolt
           description: mysql 练习网站
           url: https://www.kuangstudy.com 
-        - name: YAMM
-          description: Gmailyet-another-mail-merge
-          url: https://support.yet-another-mail-merge.com/
     - name: 社区资讯
       sites:
-        - name: TechCrunch
-          description: 美国科技类博客-主要报道新兴互联网公司、评论互联网新产品、发布重大突发新闻
-          url: https://techcrunch.com/
         - name: 雷锋网
           description: 人工智能和智能硬件领域的互联网科技媒体
           url: https://www.leiphone.com/
@@ -141,6 +129,9 @@ content:
           url: https://www.qufair.com/
     - name: 搜索导航
       sites: 
+        - name: digit77
+          description: 破解网址
+          url: https://www.digit77.com/
         - name: 5iu
           description: 设计导航
           url: https://hao.5iux.cn
