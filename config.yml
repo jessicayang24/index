@@ -92,9 +92,6 @@ content:
         - name: AppExchange
           description: 类似天眼查
           url: https://appexchange.salesforce.com/  
-        - name: 中财网
-          description: 数据引擎
-          url: http://data.cfi.cn 
         - name: A/B testing page
           description: Evan’s Awesome A/B Tools
           url: https://www.evanmiller.org/ab-testing/
@@ -104,9 +101,6 @@ content:
         - name: Kuangstuday
           description: 编程学习平台
           url: https://sqlbolt.com/   
-        - name: SQLBolt
-          description: mysql 练习网站
-          url: https://www.kuangstudy.com 
     - name: 社区资讯
       sites:
         - name: 雷锋网
@@ -167,23 +161,17 @@ content:
         - name: affiliate-talk
           description: 国外论坛 联盟 
           url: https://www.affiliate-talk.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
         - name: 稀土区
           description: 优质设计开发资源分享
           url: https://xituqu.com/
-        - name: 吾爱破解
-          description: 破解资源分享
-          url: https://www.52pojie.cn
         - name: 站长
           description: 网站分析
           url: https://ping.chinaz.com
     - name: 在线工具
       sites:
-        - name: photopea
-          description: 在线作图工具，PS
-          url: https://www.photopea.com/
+        - name: 万能的文件文档工具
+          description: 在线工具
+          url: https://tinywow.com/
         - name: svgomg
           description: SVG在线压缩平台
           url: https://jakearchibald.github.io/svgomg/
