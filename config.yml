@@ -60,9 +60,9 @@ content:
           url: https://axutongxue.com/
     - name: 新闻门户
       sites:
-        - name: 
-          description: 
-          url: 
+        - name: reuters
+          description: 美国新闻站
+          url: https://www.reuters.com/
         - name: 
           description: 
           url: 
