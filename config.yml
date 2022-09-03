@@ -63,9 +63,9 @@ content:
         - name: reuters
           description: 美国新闻站
           url: https://www.reuters.com/
-        - name: 
-          description: 
-          url: 
+        - name: 安全引擎
+          description: 安全引擎
+          url: http://cve.today/
         - name: MAKE
           description: 国内新闻热榜
           url: https://make.mk/
