@@ -66,9 +66,9 @@ content:
         - name: 安全引擎
           description: 安全引擎
           url: http://cve.today/
-        - name: MAKE
-          description: 国内新闻热榜
-          url: https://make.mk/
+        - name: ticker
+          description: 汇集了 1 万多家媒体的新闻，所有美股上市公司的新闻都有
+          url: https://tickertick.com/
         - name: Fair Observer
           description: India news
           url: https://www.fairobserver.com/
