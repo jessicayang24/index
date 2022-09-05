@@ -98,9 +98,9 @@ content:
         - name: Factset
           description: 金融数据和软件公司
           url: https://www.factset.com/
-        - name: Kuangstuday
-          description: 编程学习平台
-          url: https://sqlbolt.com/   
+        - name: Pew Research Center
+          description: 全球权威的调研机构皮尤研究中心的订阅源，会发布各行各业的统计报告（TMT 行业和政治类比较多）
+          url: http://www.pewresearch.org/feed/   
     - name: 社区资讯
       sites:
         - name: 雷锋网
