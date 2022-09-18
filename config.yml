@@ -115,9 +115,9 @@ content:
         - name: GA小站
           description: Google Analytics 分享平台
           url: https://www.ichdata.com/
-        - name: 中文马克思文库
-          description: 深度阅读与学习平台
-          url: https://www.marxists.org/chinese/index.html
+        - name: 综合搜索-外贸
+          description: 商品外贸价格
+          url: https://www.wideindex.com/
         - name: 展会网
           description: 国际展会信息公共服务平台
           url: https://www.qufair.com/
