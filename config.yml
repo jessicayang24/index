@@ -121,7 +121,7 @@ content:
         - name: 展会网
           description: 国际展会信息公共服务平台
           url: https://www.qufair.com/
-       - name: 农机
+        - name: 农机
           description: 农业机械服务平台
           url: https://www.deere.com/en/index.html
     - name: 搜索导航
