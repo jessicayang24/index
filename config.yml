@@ -184,6 +184,9 @@ content:
         - name: 稿定抠图
           description: 免费在线抠图软件,图片快速换背景-抠白底图
           url: https://www.gaoding.com
+        - name: 临时教育邮箱
+          description: 
+          url: https://10minutesemail.net/
     - name: 开发端
       sites:
         - name: Regex
