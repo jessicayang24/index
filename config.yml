@@ -190,6 +190,9 @@ content:
         - name: grammar
           description: 在线语法检测
           url: https://gramara.com/zh-s/
+        - name: TG图床
+          description: 在线图床
+          url: https://telegraph-image.pages.dev
     - name: 开发端
       sites:
         - name: Regex
