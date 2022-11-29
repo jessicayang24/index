@@ -164,9 +164,6 @@ content:
         - name: warriorforum
           description: 国外论坛 联盟 CPC CPL
           url: https://www.warriorforum.com/
-        - name: affiliate-talk
-          description: 国外论坛 联盟 
-          url: https://www.affiliate-talk.com/
         - name: 稀土区
           description: 优质设计开发资源分享
           url: https://xituqu.com/
