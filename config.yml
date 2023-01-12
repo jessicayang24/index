@@ -72,6 +72,9 @@ content:
         - name: Fair Observer
           description: India news
           url: https://www.fairobserver.com/
+        - name: BUZZ
+          description: 国内外新闻热点
+          url: https://www.buzzing.cc/
     - name: 数据工具
       sites:
         - name: 跨境电商网
@@ -193,9 +196,6 @@ content:
         - name: TG图床
           description: 在线图床
           url: https://telegraph-image.pages.dev
-        - name: BUZZ
-          description: 国内外新闻热点
-          url: https://www.buzzing.cc/
     - name: 开发端
       sites:
         - name: Regex
