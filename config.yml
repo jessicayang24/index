@@ -193,9 +193,9 @@ content:
         - name: TG图床
           description: 在线图床
           url: https://telegraph-image.pages.dev
-        - name: 
-          description: 
-          url: 
+        - name: BUZZ
+          description: 国内外新闻热点
+          url: https://www.buzzing.cc/
     - name: 开发端
       sites:
         - name: Regex
