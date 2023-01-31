@@ -58,6 +58,9 @@ content:
         - name: 阿虚的储物间
           description: 导航网址
           url: https://axutongxue.com/
+        - name: telegram
+          description: 电报频道导航
+          url: https://tgnav.github.io/
     - name: 新闻门户
       sites:
         - name: reuters
