@@ -49,9 +49,9 @@ content:
         - name: AMZ123
           description: 网址导航
           url: https://www.amz123.com
-        - name: imyshare
-          description: 精品实用网络资源导航，助你学习、工作和生活
-          url: https://imyshare.com/
+        - name: C7出海
+          description: 资源导航，助你学习、工作和生活
+          url: https://007.tg/#term-48
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
