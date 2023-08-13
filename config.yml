@@ -49,6 +49,9 @@ content:
         - name: AMZ123
           description: 网址导航
           url: https://www.amz123.com
+        - name: Cooltools.top
+          description: 网址导航
+          url: https://cooltools.top/
         - name: C7出海
           description: 资源导航，助你学习、工作和生活
           url: https://007.tg/#term-48
