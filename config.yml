@@ -55,6 +55,9 @@ content:
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
+        - name: AI交流社区平台
+          description: AI论坛
+          url: https://www.aiahz.com/community
     - name: 海关资讯
       sites:
         - name: 通关参数查询
