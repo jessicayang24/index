@@ -58,6 +58,9 @@ content:
         - name: AI交流社区平台
           description: AI论坛
           url: https://www.aiahz.com/community
+        - name: 知识引擎
+          description: 
+          url: https://golden.com/
     - name: 海关资讯
       sites:
         - name: 通关参数查询
