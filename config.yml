@@ -72,9 +72,9 @@ content:
         - name: 原产地证书综合服务平台
           description: 中国国际贸易单一窗口
           url: https://www.singlewindow.cn/
-        - name: 
+        - name: AI paper search
           description: 
-          url:  
+          url:  https://ai-paper-collector.vercel.app/
         - name: 
           description: 
           url:  
