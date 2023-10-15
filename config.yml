@@ -61,6 +61,9 @@ content:
         - name: 知识引擎
           description: 
           url: https://golden.com/
+        - name: 论文查询网站
+          description: sci-hub
+          url:  https://sci-hub.se/
     - name: 海关资讯
       sites:
         - name: 通关参数查询
