@@ -78,9 +78,9 @@ content:
         - name: AI paper search
           description: 
           url:  https://ai-paper-collector.vercel.app/
-        - name: 
-          description: 
-          url:  
+        - name: APP chatgpt
+          description: chatgpt
+          url:  https://chat-gpt-next-web-one-murex-10.vercel.app/#/chat
         - name: 
           description: 
           url:  
