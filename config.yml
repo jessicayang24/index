@@ -159,9 +159,9 @@ content:
         - name: 综合搜索-外贸
           description: 商品外贸价格
           url: https://www.wideindex.com/
-        - name: telegram
-          description: 电报频道导航
-          url: https://tgnav.github.io/          
+        - name: Gartner
+          description: DATA Tool
+          url: https://www.gartner.com/          
         - name: 展会网
           description: 国际展会信息公共服务平台
           url: https://www.qufair.com/
