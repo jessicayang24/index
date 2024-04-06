@@ -81,9 +81,9 @@ content:
         - name: APP chatgpt
           description: chatgpt
           url:  https://chat-gpt-next-web-one-murex-10.vercel.app/#/chat
-        - name: 
-          description: 
-          url:  
+        - name: Gartner
+          description: DATA Tool
+          url: https://www.gartner.com/  
         - name: 
           description: 
           url:  
