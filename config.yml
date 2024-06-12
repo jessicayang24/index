@@ -101,9 +101,9 @@ content:
         - name: ticker
           description: 汇集了 1 万多家媒体的新闻，所有美股上市公司的新闻都有
           url: https://tickertick.com/
-        - name: Fair Observer
-          description: India news
-          url: https://www.fairobserver.com/
+        - name: 
+          description: 
+          url: 
         - name: BUZZ
           description: 国内外新闻热点
           url: https://www.buzzing.cc/
@@ -170,9 +170,9 @@ content:
           url: https://www.deere.com/en/index.html
     - name: 搜索导航
       sites: 
-        - name: digit77
-          description: 破解网址
-          url: https://www.digit77.com/
+        - name: 
+          description: 
+          url: 
         - name: 5iu
           description: 设计导航
           url: https://hao.5iux.cn
