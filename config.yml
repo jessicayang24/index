@@ -88,8 +88,8 @@ content:
           description: invest web
           url: https://www.bogleheads.org/
         - name: NAS
-          description: https://qlinkto.cn/jessica1024
-          url:            
+          description:jessica1024
+          url:https://qlinkto.cn/jessica1024            
     - name: 新闻门户
       sites:
         - name: reuters
