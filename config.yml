@@ -89,7 +89,7 @@ content:
           url: https://www.bogleheads.org/
         - name: NAS
           description:jessica1024
-          url: https://192.168.31.22:5001/cgi-bin/            
+          url: http://192.168.31.22:9200/#/tunnels/list           
     - name: 新闻门户
       sites:
         - name: reuters
