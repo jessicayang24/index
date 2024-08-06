@@ -88,7 +88,7 @@ content:
           description: invest web
           url: https://www.bogleheads.org/
         - name: NAS
-          description:jessica1024
+          description: jessica1024
           url: http://192.168.31.22:9200/
     - name: 新闻门户
       sites:
