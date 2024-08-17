@@ -64,6 +64,9 @@ content:
         - name: 论文查询网站
           description: sci-hub
           url:  https://sci-hub.se/
+        - name: perplexity.ai
+          description: perplexity
+          url:  https://www.perplexity.ai/
     - name: 海关资讯
       sites:
         - name: 通关参数查询
