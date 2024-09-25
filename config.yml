@@ -46,6 +46,9 @@ content:
         - name: GitHub
           description: 代码交流平台
           url: https://github.com/
+        - name: Sunlogin
+          description: 远程控制平台
+          url: https://sunlogin.oray.com/share?shareid=706261007
         - name: AMZ123
           description: 网址导航
           url: https://www.amz123.com
