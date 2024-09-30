@@ -107,9 +107,9 @@ content:
         - name: ticker
           description: 汇集了 1 万多家媒体的新闻，所有美股上市公司的新闻都有
           url: https://tickertick.com/
-        - name: 
-          description: 
-          url: 
+        - name: animation app
+          description: animation
+          url: https://www.miruro.tv
         - name: BUZZ
           description: 国内外新闻热点
           url: https://www.buzzing.cc/
