@@ -95,7 +95,7 @@ content:
           url: https://www.bogleheads.org/
         - name: NAS
           description: jessica1024
-          url: http://192.168.31.22:9200/
+          url: http://192.168.31.22:7201/
     - name: 新闻门户
       sites:
         - name: reuters
@@ -109,7 +109,7 @@ content:
           url: https://tickertick.com/
         - name: animation app
           description: animation
-          url: https://www.miruro.tv
+          url: https://www.miruro.tv/
         - name: BUZZ
           description: 国内外新闻热点
           url: https://www.buzzing.cc/
