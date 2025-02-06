@@ -49,9 +49,9 @@ content:
         - name: Sunlogin
           description: 远程控制平台
           url: https://sunlogin.oray.com/share?shareid=706261007
-        - name: AMZ123
-          description: 网址导航
-          url: https://www.amz123.com
+        - name: 秘塔AI搜索
+          description: 秘塔AI搜索
+          url: https://metaso.cn/
         - name: C7出海
           description: 资源导航，助你学习、工作和生活
           url: https://007.tg/#term-48
@@ -70,6 +70,29 @@ content:
         - name: perplexity.ai
           description: perplexity
           url:  https://www.perplexity.ai/
+        - name: cursor.ai
+          description: AI code editor
+          url:  https://www.cursor.com/
+        - name: Monica.ai
+          description: AI code editor
+          url:  https://www.cursor.com/
+    - name: 财务资讯
+      sites:
+        - name: Endowus
+          description: Endowus 智安投 Fund Smart 零售投資者
+          url: https://endowus.com/
+        - name: AASTOCKS 港股资讯
+          description: 阿斯達克網絡信息有限公司 AASTOCKS.COM LIMITED
+          url: http://www.aastocks.com/
+        - name: 理杏仁
+          description: A股资讯
+          url: https://www.lixinger.com/
+        - name: M1
+          description: 
+          url: https://m1.com/invest/brokerage/
+        - name: 
+          description: 
+          url: 
     - name: 海关资讯
       sites:
         - name: 通关参数查询
