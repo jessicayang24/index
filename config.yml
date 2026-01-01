@@ -90,9 +90,9 @@ content:
         - name: M1
           description: 
           url: https://m1.com/invest/brokerage/
-        - name: 
-          description: 
-          url: 
+        - name: 智能理财计算工具
+          description: 利率对比
+          url: https://fc.frytea.com/
     - name: 海关资讯
       sites:
         - name: 通关参数查询
