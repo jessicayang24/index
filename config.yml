@@ -199,9 +199,9 @@ content:
           url: https://www.deere.com/en/index.html
     - name: 搜索导航
       sites: 
-        - name: 
-          description: 
-          url: 
+        - name: freemediaheckyeah
+          description: 白嫖党章
+          url: https://fmhy.net
         - name: 5iu
           description: 设计导航
           url: https://hao.5iux.cn
