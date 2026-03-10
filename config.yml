@@ -67,9 +67,9 @@ content:
         - name: 论文查询网站
           description: sci-hub
           url:  https://sci-hub.se/
-        - name: perplexity.ai
-          description: perplexity
-          url:  https://www.perplexity.ai/
+        - name: public APIs
+          description: 免费的API
+          url:  https://www.freepublicapis.com/
         - name: cursor.ai
           description: AI code editor
           url:  https://www.cursor.com/
