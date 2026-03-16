@@ -46,9 +46,9 @@ content:
         - name: GitHub
           description: 代码交流平台
           url: https://github.com/
-        - name: Sunlogin
-          description: 远程控制平台
-          url: https://sunlogin.oray.com/share?shareid=706261007
+        - name: finance
+          description: 控制平台
+          url: https://finance.worldmonitor.app/?lat=19.7970&lon=0.0000&zoom=1.49&view=global&timeRange=7d&layers=cables%2Cpipelines%2Csanctions%2Cweather%2Ceconomic%2Cwaterways%2Coutages%2Cnatural%2CtradeRoutes
         - name: 秘塔AI搜索
           description: 秘塔AI搜索
           url: https://metaso.cn/
