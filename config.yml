@@ -58,9 +58,9 @@ content:
         - name: SQLBolt
           description: mysql 练习网站
           url: https://sqlbolt.com/
-        - name: AI交流社区平台
-          description: AI论坛
-          url: https://www.aiahz.com/community
+        - name: 预测平台
+          description: polymarket
+          url: https://polymarket.com/zh
         - name: 知识引擎
           description: 
           url: https://golden.com/
