@@ -70,9 +70,9 @@ content:
         - name: public APIs
           description: 免费的API
           url:  https://www.freepublicapis.com/
-        - name: cursor.ai
-          description: AI code editor
-          url:  https://www.cursor.com/
+        - name: PDF book
+          description: free book download
+          url:  https://pdfdrive.webs.nf/
         - name: Monica.ai
           description: AI code editor
           url:  https://www.cursor.com/
@@ -107,9 +107,9 @@ content:
         - name: AI paper search
           description: 
           url:  https://ai-paper-collector.vercel.app/
-        - name: APP chatgpt
-          description: chatgpt
-          url:  https://chat-gpt-next-web-one-murex-10.vercel.app/#/chat
+        - name: product news wellet
+          description: lenny
+          url:  https://www.lennysnewsletter.com/
         - name: Gartner
           description: DATA Tool
           url: https://www.gartner.com/  
