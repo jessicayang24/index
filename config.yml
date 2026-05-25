@@ -67,9 +67,9 @@ content:
         - name: 论文查询网站
           description: sci-hub
           url:  https://sci-hub.se/
-        - name: public APIs
-          description: 免费的API
-          url:  https://www.freepublicapis.com/
+        - name: KANPAN
+          description: 免费
+          url:  https://dapanyuntu.com/
         - name: PDF book
           description: free book download
           url:  https://pdfdrive.webs.nf/
