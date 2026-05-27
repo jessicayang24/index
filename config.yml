@@ -73,9 +73,9 @@ content:
         - name: PDF book
           description: free book download
           url:  https://pdfdrive.webs.nf/
-        - name: Monica.ai
-          description: AI code editor
-          url:  https://www.cursor.com/
+        - name: learnbuffett
+          description: 巴菲特致股东信知识库
+          url:  https://learnbuffett.com/
     - name: 财务资讯
       sites:
         - name: Endowus
