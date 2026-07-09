@@ -67,9 +67,9 @@ content:
         - name: 论文查询网站
           description: sci-hub
           url:  https://sci-hub.se/
-        - name: techdiylife
-          description: AI开发者的频道
-          url:  https://techdiylife.github.io/blog/index.html
+        - name: HEXO
+          description: 静态网页
+          url:  http://127.0.0.1:4000/
         - name: PDF book
           description: free book download
           url:  https://pdfdrive.webs.nf/
