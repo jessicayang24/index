@@ -69,10 +69,10 @@ content:
           url:  https://sci-hub.se/
         - name: HEXO
           description: 静态网页
-          url:  http://127.0.0.1:4000/
-        - name: PDF book
-          description: free book download
-          url:  https://pdfdrive.webs.nf/
+          url:  https://jessicayang24.github.io/my-ai-gateway-vercle/
+        - name: 政策行网站
+          description: 三级部委网站
+          url:  https://jessicayang24.github.io/
         - name: learnbuffett
           description: 巴菲特致股东信知识库
           url:  https://learnbuffett.com/
