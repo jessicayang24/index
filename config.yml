@@ -64,13 +64,13 @@ content:
         - name: 知识引擎
           description: 
           url: https://golden.com/
-        - name: 论文查询网站
-          description: sci-hub
-          url:  https://sci-hub.se/
+        - name: 经济网站
+          description: 经济性网站网址清单
+          url:  https://jessicayang24.github.io/
         - name: HEXO
           description: 静态网页
           url:  https://jessicayang24.github.io/my-ai-gateway-vercle/
-        - name: 政策行网站
+        - name: 政策网站
           description: 三级部委网站
           url:  https://jessicayang24.github.io/
         - name: learnbuffett
