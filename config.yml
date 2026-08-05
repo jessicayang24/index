@@ -95,9 +95,9 @@ content:
           url: https://fc.frytea.com/
     - name: 海关资讯
       sites:
-        - name: 通关参数查询
-          description: 海关总署
-          url: http://jiangmen.customs.gov.cn/eportal/ui?pageId=1894998&tableName=zfs_table_gbdq
+        - name: 软件通录
+          description: 多种类软件替代品
+          url: https://openalternative.co/
         - name: FTA服务网
           description: 中国自由贸易区服务网
           url: http://fta.mofcom.gov.cn/
