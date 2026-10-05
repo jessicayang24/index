@@ -1,0 +1,242 @@
+categories:
+- name: 常用推荐
+  sites:
+  - name: V2EX
+    description: 技术分享平台
+    url: https://www.v2ex.com
+  - name: GitHub
+    description: 代码交流平台
+    url: https://github.com/
+  - name: finance
+    description: 控制平台
+    url: https://finance.worldmonitor.app/?lat=19.7970&lon=0.0000&zoom=1.49&view=global&timeRange=7d&layers=cables%2Cpipelines%2Csanctions%2Cweather%2Ceconomic%2Cwaterways%2Coutages%2Cnatural%2CtradeRoutes
+  - name: 秘塔AI搜索
+    description: 秘塔AI搜索
+    url: https://metaso.cn/
+  - name: invest
+    description: 大佬持仓
+    url: https://stockcircle.com/
+  - name: SQLBolt
+    description: mysql 练习网站
+    url: https://sqlbolt.com/
+  - name: 预测平台
+    description: polymarket
+    url: https://polymarket.com/zh
+  - name: 知识引擎
+    description: ''
+    url: https://golden.com/
+  - name: 经济网站
+    description: 经济性网站网址清单
+    url: https://jessicayang24.github.io/
+  - name: HEXO
+    description: 静态网页
+    url: https://jessicayang24.github.io/my-ai-gateway-vercle/
+  - name: 政策网站
+    description: 三级部委网站
+    url: https://jessicayang24.github.io/
+  - name: learnbuffett
+    description: 巴菲特致股东信知识库
+    url: https://learnbuffett.com/
+- name: 财务资讯
+  sites:
+  - name: Endowus
+    description: Endowus 智安投 Fund Smart 零售投資者
+    url: https://endowus.com/
+  - name: AASTOCKS 港股资讯
+    description: 阿斯達克網絡信息有限公司 AASTOCKS.COM LIMITED
+    url: http://www.aastocks.com/
+  - name: 理杏仁
+    description: A股资讯
+    url: https://www.lixinger.com/
+  - name: M1
+    description: ''
+    url: https://m1.com/invest/brokerage/
+  - name: 智能理财计算工具
+    description: 利率对比
+    url: https://fc.frytea.com/
+- name: 海关资讯
+  sites:
+  - name: 软件通录
+    description: 多种类软件替代品
+    url: https://openalternative.co/
+  - name: FTA服务网
+    description: 中国自由贸易区服务网
+    url: http://fta.mofcom.gov.cn/
+  - name: 原产地证书综合服务平台
+    description: 中国国际贸易单一窗口
+    url: https://www.singlewindow.cn/
+  - name: AI paper search
+    description: ''
+    url: https://ai-paper-collector.vercel.app/
+  - name: product news wellet
+    description: lenny
+    url: https://www.lennysnewsletter.com/
+  - name: Gartner
+    description: DATA Tool
+    url: https://www.gartner.com/
+  - name: bogleheads
+    description: invest web
+    url: https://www.bogleheads.org/
+  - name: NAS
+    description: jessica1024
+    url: http://192.168.31.22:7201/
+- name: 新闻门户
+  sites:
+  - name: reuters
+    description: 美国新闻站
+    url: https://www.reuters.com/
+  - name: 安全引擎
+    description: 安全引擎
+    url: http://cve.today/
+  - name: ticker
+    description: 汇集了 1 万多家媒体的新闻，所有美股上市公司的新闻都有
+    url: https://tickertick.com/
+  - name: animation app
+    description: animation
+    url: https://www.miruro.tv/
+  - name: BUZZ
+    description: 国内外新闻热点
+    url: https://www.buzzing.cc/
+- name: 数据工具
+  sites:
+  - name: 跨境电商网
+    description: 跨境电商报告
+    url: http://www.100ec.cn/zt/wmds/
+  - name: A/B客
+    description: 免费的海关数据
+    url: https://www.cnabke.com/
+  - name: 研报课
+    description: 数据分析模型
+    url: https://www.yanbaoke.com/
+  - name: 极光大数据
+    description: 行业数据
+    url: https://www.moonfox.cn/
+  - name: 贝恩查询
+    description: 行业
+    url: https://www.bain.cn/
+  - name: 发现报告
+    description: 行业数据报告查询
+    url: https://www.fxbaogao.com/
+  - name: AppExchange
+    description: 类似天眼查
+    url: https://appexchange.salesforce.com/
+  - name: A/B testing page
+    description: Evan’s Awesome A/B Tools
+    url: https://www.evanmiller.org/ab-testing/
+  - name: Factset
+    description: 金融数据和软件公司
+    url: https://www.factset.com/
+  - name: Pew Research Center
+    description: 全球权威的调研机构皮尤研究中心的订阅源，会发布各行各业的统计报告（TMT 行业和政治类比较多）
+    url: http://www.pewresearch.org
+- name: 社区资讯
+  sites:
+  - name: 雷锋网
+    description: 人工智能和智能硬件领域的互联网科技媒体
+    url: https://www.leiphone.com/
+  - name: 电鸭社区
+    description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
+    url: https://eleduck.com/
+  - name: 廖雪峰的官方网站
+    description: 一个教编程的网站
+    url: https://www.liaoxuefeng.com/
+  - name: GA小站
+    description: Google Analytics 分享平台
+    url: https://www.ichdata.com/
+  - name: 阿虚的储物间
+    description: 导航网址
+    url: https://axutongxue.com/
+  - name: 综合搜索-外贸
+    description: 商品外贸价格
+    url: https://www.wideindex.com/
+  - name: Gartner
+    description: DATA Tool
+    url: https://www.gartner.com/
+  - name: 展会网
+    description: 国际展会信息公共服务平台
+    url: https://www.qufair.com/
+  - name: 农机
+    description: 农业机械服务平台
+    url: https://www.deere.com/en/index.html
+- name: 搜索导航
+  sites:
+  - name: freemediaheckyeah
+    description: 白嫖党章
+    url: https://fmhy.net
+  - name: 5iu
+    description: 设计导航
+    url: https://hao.5iux.cn
+  - name: duckdyckgo
+    description: 无痕浏览器
+    url: https://www.duckduckgoog.com
+  - name: afternic
+    description: 域名交易市场
+    url: https://www.afternic.com/
+  - name: Port Examiner
+    description: 美国海关提单查询
+    url: https://portexaminer.com/
+  - name: NPCS
+    description: 印度进口商名录（基本带详细邮箱）
+    url: https://www.niir.org/directory/
+  - name: Port Examiner
+    description: 全球进口商查询（可按具体细分产品查询）
+    url: http://www.exportersindia.com/
+  - name: Buyer online
+    description: 全球买家在线询盘
+    url: https://www.globalbuyersonline.com/
+  - name: UN Comtrade Database
+    description: 海关数据查询
+    url: https://comtrade.un.org/
+  - name: 新榜
+    description: 新媒体数据来源
+    url: https://www.newrank.cn
+- name: 联盟论坛
+  sites:
+  - name: warriorforum
+    description: 国外论坛 联盟 CPC CPL
+    url: https://www.warriorforum.com/
+  - name: 稀土区
+    description: 优质设计开发资源分享
+    url: https://xituqu.com/
+  - name: 站长
+    description: 网站分析
+    url: https://ping.chinaz.com
+- name: 在线工具
+  sites:
+  - name: 万能的文件文档工具
+    description: 在线工具
+    url: https://www.aconvert.com/
+  - name: 在线查看各种格式的文件内容
+    description: 在线工具
+    url: https://www.fviewer.com/zh
+  - name: svgomg
+    description: SVG在线压缩平台
+    url: https://jakearchibald.github.io/svgomg/
+  - name: 稿定抠图
+    description: 免费在线抠图软件,图片快速换背景-抠白底图
+    url: https://www.gaoding.com
+  - name: 临时教育邮箱
+    description: ''
+    url: https://10minutesemail.net/
+  - name: tradepub
+    description: 杂志订阅
+    url: https://www.tradepub.com
+  - name: TG图床
+    description: 在线图床
+    url: https://telegraph-image.pages.dev
+- name: 开发端
+  sites:
+  - name: Regex
+    description: 爬虫自动加正则以及自动化的工具
+    url: https://regex101.com
+  - name: AI learning course
+    description: deeplearning.ai
+    url: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+  - name: Codepen
+    description: The best place to build, test, and discover front-end code
+    url: https://codepen.io
+- name: 投资工具
+  sites:
+  - name: mastersinvest
+    description: 大佬投资
+    url: https://mastersinvest.com/

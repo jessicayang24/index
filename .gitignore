@@ -13,3 +13,13 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.venv/
+__pycache__/
+.build/
+_site/
+.local-publish/
+新增网址.txt
+
+# macOS Finder metadata
+.DS_Store
