@@ -229,9 +229,6 @@ categories:
   - name: Regex
     description: 爬虫自动加正则以及自动化的工具
     url: https://regex101.com
-  - name: AI learning course
-    description: deeplearning.ai
-    url: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 - name: 投资工具
   sites:
   - name: mastersinvest
