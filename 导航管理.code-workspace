@@ -1,0 +1,26 @@
+{
+  "folders": [{"path": "."}],
+  "settings": {"python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python"},
+  "launch": {
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "网址管理菜单",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/navigation.py",
+        "console": "integratedTerminal",
+        "cwd": "${workspaceFolder}"
+      },
+      {
+        "name": "直接提交推送",
+        "type": "debugpy",
+        "request": "launch",
+        "program": "${workspaceFolder}/navigation.py",
+        "args": ["--publish"],
+        "console": "integratedTerminal",
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
+}

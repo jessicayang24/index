@@ -18,6 +18,8 @@ ALLOWED = {
     "index.html", ".gitignore", ".github/workflows/generate.yml",
     "tests/test_sites.py", "tests/test_publish.py", "一键推送.command", "一键使用说明.md",
     "重新登录GitHub.command",
+    "navigation.py", "scripts/manage.py", "tests/test_manage.py",
+    "导航管理.code-workspace", "VSCode使用说明.md",
 }
 
 
