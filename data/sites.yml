@@ -232,9 +232,6 @@ categories:
   - name: AI learning course
     description: deeplearning.ai
     url: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
-  - name: Codepen
-    description: The best place to build, test, and discover front-end code
-    url: https://codepen.io
 - name: 投资工具
   sites:
   - name: mastersinvest

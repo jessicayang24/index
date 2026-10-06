@@ -32,6 +32,28 @@ class PublishTest(unittest.TestCase):
         with self.assertRaises(ValueError):
             publish.parse_inbox("https://example.org/\njavascript:alert(1)")
 
+    def test_separator_spacing_is_optional(self):
+        expected = publish.parse_inbox("https://mastersinvest.com/ | mastersinvest | 投资工具 | 简短说明")
+        for line in (
+            "https://mastersinvest.com/| mastersinvest | 投资工具 | 简短说明",
+            "https://mastersinvest.com/|mastersinvest|投资工具|简短说明",
+            "https://mastersinvest.com/\t|\tmastersinvest\t|\t投资工具\t|\t简短说明",
+        ):
+            with self.subTest(line=line):
+                self.assertEqual(publish.parse_inbox(line), expected)
+
+    def test_invalid_url_reports_line(self):
+        with self.assertRaisesRegex(ValueError, "第 2 行"):
+            publish.parse_inbox("# comment\nhttps://example.com/bad path|Name")
+
+    def test_encoded_pipe_and_empty_fields(self):
+        entry = publish.parse_inbox("https://example.org/?a=x%7Cy|||说明")[0]
+        self.assertEqual(entry[0], "待整理")
+        self.assertEqual(entry[1]["url"], "https://example.org/?a=x%7Cy")
+        self.assertEqual(entry[1]["name"], "example.org")
+        with self.assertRaisesRegex(ValueError, "最多填写四列"):
+            publish.parse_inbox("https://example.org/|a|b|c|d")
+
     def test_repeat_import_is_idempotent(self):
         original = copy.deepcopy(self.data)
         entries = publish.parse_inbox("https://example.org/\nhttps://example.org/\nhttps://example.com/")

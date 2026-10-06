@@ -38,11 +38,14 @@ def parse_inbox(text):
         line = line.strip()
         if not line or line.startswith("#"):
             continue
-        fields = [field.strip() for field in line.split(" | ")]
+        fields = [field.strip() for field in line.split("|")]
         if len(fields) > 4:
-            raise ValueError(f"第 {number} 行格式错误，请最多填写四列，用 空格|空格 分隔")
+            raise ValueError(f"第 {number} 行格式错误，请最多填写四列，用 | 分隔；网址中的竖线请写成 %7C")
         url = fields[0]
-        sites.url_key(url)
+        try:
+            sites.url_key(url)
+        except ValueError as error:
+            raise ValueError(f"新增网址.txt 第 {number} 行：{error}") from error
         fields += [""] * (4 - len(fields))
         entries.append((fields[2] or "待整理", {
             "name": fields[1] or urlsplit(url).hostname,
