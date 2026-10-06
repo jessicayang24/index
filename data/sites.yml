@@ -190,14 +190,14 @@ categories:
   - name: 新榜
     description: 新媒体数据来源
     url: https://www.newrank.cn
+  - name: skills
+    description: AI 工具
+    url: https://www.skills.sh/
 - name: 联盟论坛
   sites:
   - name: warriorforum
     description: 国外论坛 联盟 CPC CPL
     url: https://www.warriorforum.com/
-  - name: 稀土区
-    description: 优质设计开发资源分享
-    url: https://xituqu.com/
   - name: 站长
     description: 网站分析
     url: https://ping.chinaz.com

@@ -20,6 +20,7 @@ __pycache__/
 _site/
 .local-publish/
 新增网址.txt
+网站操作.txt
 
 # macOS Finder metadata
 .DS_Store

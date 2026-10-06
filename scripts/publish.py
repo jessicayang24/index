@@ -20,6 +20,7 @@ ALLOWED = {
     "重新登录GitHub.command",
     "navigation.py", "scripts/manage.py", "tests/test_manage.py",
     "导航管理.code-workspace", "VSCode使用说明.md",
+    "scripts/batch.py", "tests/test_batch.py", "一键处理.py", "一键处理.command",
 }
 
 
@@ -86,7 +87,7 @@ def changed_paths():
     return paths | set(filter(None, staged.split("\0")))
 
 
-def publish():
+def publish(include_inbox=True):
     if git("branch", "--show-current") != "gh-pages":
         raise ValueError("请在 gh-pages 分支运行。脚本不会自动切换分支。")
     remote = git("remote", "get-url", "origin")
@@ -101,7 +102,7 @@ def publish():
     if not INBOX.exists():
         INBOX.write_text(EMPTY_INBOX, encoding="utf-8")
     original = INBOX.read_text(encoding="utf-8-sig")
-    entries = parse_inbox(original)
+    entries = parse_inbox(original) if include_inbox else []
     data, added = merge(sites.read(sites.DATA), entries)
     if not entries and not changed_paths():
         print("清单为空；如上次推送失败，将尝试同步已有提交。")

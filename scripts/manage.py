@@ -116,7 +116,12 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--publish", action="store_true", help="直接提交推送，并导入新增网址.txt")
     parser.add_argument("--check", action="store_true", help="只检查数据，不推送")
+    parser.add_argument("--batch", action="store_true", help="处理网站操作.txt 并自动推送")
     args = parser.parse_args()
+    if args.batch:
+        import batch
+        batch.main()
+        return 0
     if args.check:
         count, warnings = sites.validate(sites.read(sites.DATA))
         print(f"检查通过：{count} 条网址")
