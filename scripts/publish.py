@@ -17,6 +17,7 @@ ALLOWED = {
     "cmd/build/main.go", "go.mod", "go.sum", "requirements.txt", "README.md",
     "index.html", ".gitignore", ".github/workflows/generate.yml",
     "tests/test_sites.py", "tests/test_publish.py", "一键推送.command", "一键使用说明.md",
+    "重新登录GitHub.command",
 }
 
 
