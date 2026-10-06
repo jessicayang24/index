@@ -4,20 +4,20 @@
 
 1. VS Code 打开「导航管理.code-workspace」。
 2. 安装 Microsoft Python 扩展（含 Python Debugger）。
-3. 打开 navigation.py，点击右上角 Run Python File in Terminal；也可在运行和调试中选择「网址管理菜单」，按 F5。
-4. 根据终端菜单输入数字：1 新增、2 查看、3 修改、4 删除、5 提交并推送、0 退出。
+3. 填写并保存「网站操作.txt」，格式见「一键使用说明.md」。
+4. 打开「一键处理.py」，点击 Run Python File in Terminal；也可在运行和调试中选择「一键处理操作清单」后按 F5。查询显示结果，修改自动提交推送。
 
-新增时只填网址即可，自动归入“待整理”；也支持 `网址 | 网站名称 | 分类 | 说明`。修改时回车保留原值，说明输入 - 可清空。删除需要输入 DELETE 确认。
+可选的旧菜单仍保留在 navigation.py 中，仅在需要逐项交互时使用。以下描述适用于旧菜单：新增可只填网址；修改时回车保留原值，说明输入 - 清空；删除输入 DELETE 确认。
 
 编辑后自动保存到本地并备份到 .local-publish/。只有选择 5 才会上传；退出不会丢失已保存的改动。推送仍包含本项目的程序维护文件。推送成功后需等待 GitHub Actions 构建及部署完成。
 
-仍想用填写文件的方式：打开本目录「新增网址.txt」，保存后在运行和调试中选择「直接提交推送」。原有「一键推送.command」在此目录也可继续使用。
+日常只使用「网站操作.txt」和「一键处理.py」。重复的 .command 推送入口已移除，旧「新增网址.txt」不会被新入口导入。
 
 终端命令：
 
 ```bash
 cd /Users/yangxiaoba/Workspace/05_website
-python3 navigation.py
+python3 一键处理.py
 # 只检查，不联网或推送
 python3 navigation.py --check
 # 导入新增网址.txt，并直接提交推送

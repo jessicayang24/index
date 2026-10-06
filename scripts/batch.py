@@ -9,7 +9,7 @@ import manage
 import publish
 import sites
 
-TEMPLATE = """# 网站操作清单：写好后保存，运行「一键处理.py」或双击「一键处理.command」。
+TEMPLATE = """# 网站操作清单：写好后保存，在 VS Code 运行「一键处理.py」。
 # 一行一条；| 两边有没有空格都可以；以 # 开头的示例不会执行。
 # 新增：新增 | 网址 | 名称（可省略） | 分类（可省略） | 说明（可省略）
 # 删除：删除 | 已保存的完整网址

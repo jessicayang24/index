@@ -11,7 +11,7 @@ import sites
 
 ROOT = sites.ROOT
 INBOX = ROOT / "新增网址.txt"
-EMPTY_INBOX = "# 一行一个网址；可选格式：网址 | 网站名称 | 分类 | 简短说明\n# 保存后双击「一键推送.command」。\n\n"
+EMPTY_INBOX = "# 旧版新增清单。日常请使用 网站操作.txt 和 一键处理.py。\n# 如需导入此清单，运行 python3 navigation.py --publish。\n\n"
 ALLOWED = {
     "config.yml", "data/sites.yml", "scripts/sites.py", "scripts/publish.py",
     "cmd/build/main.go", "go.mod", "go.sum", "requirements.txt", "README.md",

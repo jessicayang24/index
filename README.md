@@ -2,7 +2,7 @@
 
 ## 一键添加（推荐）
 
-打开同目录的「新增网址.txt」，一行写一个网址并保存，再双击「一键推送.command」。可选填名称、分类，格式见 [一键使用说明](一键使用说明.md)。脚本自动安装 Python 依赖、检查数据、提交、同步和推送；推送成功后备份并清空清单。首次使用仍需完成下文的 Pages 设置及 Git 认证。
+打开同目录的「网站操作.txt」，每行写一条新增、查询、修改或删除操作，保存后在 VS Code 运行「一键处理.py」。不需要菜单，也不用手写 Git 命令。格式见 [一键使用说明](一键使用说明.md)。纯查询不推送；有修改时检查、备份并推送，成功后清空清单。登录失效时使用「重新登录GitHub.command」。下文 Git 命令作为手动维护参考。
 
 [![Build](https://github.com/jessicayang24/index/actions/workflows/generate.yml/badge.svg)](https://github.com/jessicayang24/index/actions/workflows/generate.yml)
 

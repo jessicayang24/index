@@ -5,19 +5,18 @@
     "version": "0.2.0",
     "configurations": [
       {
-        "name": "网址管理菜单",
+        "name": "一键处理操作清单",
         "type": "debugpy",
         "request": "launch",
-        "program": "${workspaceFolder}/navigation.py",
+        "program": "${workspaceFolder}/一键处理.py",
         "console": "integratedTerminal",
         "cwd": "${workspaceFolder}"
       },
       {
-        "name": "直接提交推送",
+        "name": "高级：交互菜单",
         "type": "debugpy",
         "request": "launch",
         "program": "${workspaceFolder}/navigation.py",
-        "args": ["--publish"],
         "console": "integratedTerminal",
         "cwd": "${workspaceFolder}"
       }

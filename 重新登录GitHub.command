@@ -41,4 +41,4 @@ git config --local --replace-all credential.https://github.com.helper ''
 git config --local --add credential.https://github.com.helper "$credential_helper"
 git config --local credential.https://github.com.username jessicayang24
 printf '\n浏览器登录已完成，此仓库已改用 GitHub CLI 获取凭据。\n'
-printf '现在关闭此窗口，再双击「一键推送.command」。\n'
+printf '现在关闭此窗口，在 VS Code 运行「一键处理.py」。\n'
