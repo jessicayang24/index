@@ -193,6 +193,9 @@ categories:
   - name: skills
     description: AI 工具
     url: https://www.skills.sh/
+  - name: local web Qdrant
+    description: N8N local web
+    url: http://localhost:6333/dashboard#/welcome
 - name: 联盟论坛
   sites:
   - name: warriorforum
