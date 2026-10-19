@@ -97,6 +97,9 @@ categories:
   - name: BUZZ
     description: 国内外新闻热点
     url: https://www.buzzing.cc/
+  - name: 名FDA Law Blog
+    description: 精确解释FDA政策
+    url: https://hpm.com/
 - name: 数据工具
   sites:
   - name: 跨境电商网
