@@ -37,6 +37,9 @@ categories:
   - name: learnbuffett
     description: 巴菲特致股东信知识库
     url: https://learnbuffett.com/
+  - name: arXiv 免费分布式
+    description: 开放获取的资源库
+    url: https://arxiv.org/
 - name: 财务资讯
   sites:
   - name: Endowus
@@ -77,9 +80,6 @@ categories:
   - name: bogleheads
     description: invest web
     url: https://www.bogleheads.org/
-  - name: NAS
-    description: jessica1024
-    url: http://192.168.31.22:7201/
 - name: 新闻门户
   sites:
   - name: reuters
